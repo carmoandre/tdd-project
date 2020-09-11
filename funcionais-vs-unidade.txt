@@ -1,0 +1,5 @@
+funcionais  vs Unidade
+
+Diferenças:
+Testes de unidadde são independentes e temm maior granularidade.
+Testes funcionais são dependnentes e tem menor glanuraidade. 
