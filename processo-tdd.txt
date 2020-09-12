@@ -1,0 +1,16 @@
+Com o TDD tudo começa com codificação de um teste,
+nesse caso funcional, que falhará ao rodar, pois
+ainda não existe código que ele teste.
+
+Quando o teste falha é a hora de escrever um código
+mínimo e rodar teste, escreve mais código, se for
+necessário, e rodar o teste de novo, até que ele passe.
+
+Uma vez que o teste passe, é hora de ver se há necessidade
+de se fazer uma refatoração na aplicação como um todo,
+em qualquer das partes. Sempre rodando os testes em cada
+para verificar se está mantendo o comportamento.
+
+No caso do teste funcional, "escrever um código mínimo", significar 
+recomeçar todo o processo descrito, mas com testes de unidade, que
+são partes muito importantes na construção dos testes funcionais
